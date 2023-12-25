@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+
+body{
+	font-size: large;
+	color: rgb(255, 233, 203);
+	background-color: #333333;
+}
+
+nav{
+	display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.welcome_text{
+	display:flex;
+    justify-content: space-between;
+    align-items: center;
+}

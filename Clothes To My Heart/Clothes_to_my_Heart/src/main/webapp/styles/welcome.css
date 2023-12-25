@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body{
+	font-size: large;
+	color: rgb(255, 233, 203);
+	background-color: #333333;
+}
+
+.login_form{
+	border: 2px;
+}
