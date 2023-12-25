@@ -1,0 +1,1 @@
+A message-based Virtual Pet who sends you good morning messages as soon as you wake up. Interacting with the pets can provide different and unique responses to motivate you throughout the day.
